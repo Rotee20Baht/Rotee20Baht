@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thipop Payarang</h1>
-<h3 align="center">Hello, You can call me Dodo, and now I am majoring in computer engineering at Walailak University.</h3>
+<h3 align="center">Hello, You can call me Dodo.</h3>
 
 - 🌱 I’m currently learning **React, NodeJs, Express**
 
