@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React, NodeJs, Express**
 
-- 📫 How to reach me **Thipop.pa@mail.wu.ac.th**
+- 📫 How to reach me **Thipop.pa@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
